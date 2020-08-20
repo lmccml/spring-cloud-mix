@@ -1,0 +1,6 @@
+# Project exclude paths
+/eureka-server/target/
+/eureka-server-master/target/
+/eureka-server-slave-two/target/
+/eureka-server-slave-one/target/
+.idea

@@ -1,0 +1,16 @@
+spring:
+  profiles:
+    active: dev
+
+  application:
+    name: spring-cloud-mix
+
+server:
+  port: 8800
+
+lmc:
+  port: 8800
+
+environment:
+  port: 8800
+
